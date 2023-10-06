@@ -21,7 +21,7 @@ echo -e "${RED}*             ᖴᑘᑢᖽᐸ ᖻᓍᑘ               *${NC}"
 echo -e "${RED}*       Don't hack the school Mac        *${NC}"
 echo -e "${RED}*      Your responsible for doing this   *${NC}"
 echo -e "${RED}*      bye the way this unlocks Roblox   *${NC}"
-echo -e "${RED}*             your grated                *${NC}"
+echo -e "${RED}*             you owe 30 dollars         *${NC}"
 echo -e "${CYAN}*-------------------*---------------------*${NC}"
 echo ""
 PS3='Please enter your choice: '
